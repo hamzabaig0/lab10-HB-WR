@@ -1,3 +1,7 @@
+# https://github.com/hamzabaig0/lab10-HB-WR.git
+# Partner 1: Hamza Baig
+# Partner 2: Wilfredo Rodriguez
+
 import unittest
 from calculator import *
 

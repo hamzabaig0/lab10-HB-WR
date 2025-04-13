@@ -1,3 +1,7 @@
+# https://github.com/hamzabaig0/lab10-HB-WR.git
+# Partner 1: Hamza Baig
+# Partner 2: Wilfredo Rodriguez
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
