@@ -36,10 +36,10 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
-def multiply(a, b):
+def mul(a, b):
     return a * b
 
-def divide(a, b):
+def div(a, b):
     if a == 0:
         raise ZeroDivisionError("Cannot divide by zero.")
     return b / a
@@ -50,3 +50,6 @@ def logarithm(a, b):
     if b <= 0:
         raise ValueError("Argument 'b' must be positive.")
     return math.log(b, a)
+
+def exp(a, b):
+    return a**b
